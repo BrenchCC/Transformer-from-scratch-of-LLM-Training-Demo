@@ -1,0 +1,4 @@
+# gpt2-training-packages
+tqdm
+torch
+transformers
